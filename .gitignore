@@ -1,0 +1,5 @@
+out/
+build/
+.vs/
+cmake-build-debug/
+
