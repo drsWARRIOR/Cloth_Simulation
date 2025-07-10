@@ -135,3 +135,6 @@ cmake --build .
 - **Tearing & Pinning (Future Scope)**  
   Particles can be pinned (fixed position), and can be destroyed based on user input which simulates a tearing effect
 
+## Reference
+If you want to learn more about verlet integration and cloth simulation logic, here is a great article from [pikuma](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
+
